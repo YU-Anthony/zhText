@@ -1,1 +1,11 @@
-中文预料
+中文语料
+
+AFQMC
+
+TNEWS
+
+IFLYTEK
+
+OCNLI
+
+MCNLI
