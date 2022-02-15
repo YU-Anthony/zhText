@@ -4,5 +4,9 @@ CMRC 是一个由人类专家注释的数据集，包含近20，000个问题。�
 
 
 
-该数据集源自于 [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE), 愿数据集中共有 train.json, eval.json, test.json, trial.json 四个文件。根据[官网](https://hfl-rc.com/cmrc2018/task/)介绍 试验集可加入到训练集中用来扩充训练数据，故该仓库中 train.json 文件其实是 clue 仓库中 train.json 和 trial.json 的合集。
+该数据集源自于 [CLUE benchmark](https://github.com/CLUEbenchmark/CLUE), 原数据集中共有 train.json, eval.json, test.json, trial.json 四个文件。根据[官网](https://hfl-rc.com/cmrc2018/task/)介绍 
+
+> 试验集可加入到训练集中用来扩充训练数据
+
+故该仓库中 train.json 文件其实是 clue 仓库中 train.json 和 trial.json 的合集。
 
